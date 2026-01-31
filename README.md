@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository
 <br>
-Author-Rushil Vijaybhai Desai
+Author-Rushil Desai(CSE Student)
